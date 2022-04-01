@@ -22,9 +22,6 @@
 - [npm scripts](#npm-scripts)
 - [License]()
 
-## Version notice
-
-This project came a long way since the initial release in 2018. If you used this boilerplate before 2021, you should check a [v0.x.x branch](https://github.com/MarkKhramko/nodejs-express-jwt/tree/v0.x.x) and [v0 tags](https://github.com/MarkKhramko/nodejs-express-jwt/releases/tag/v0.0.0) for the latest changes of v0.
 
 ## Install and Use
 
@@ -32,7 +29,7 @@ Start by cloning this repository
 
 ```sh
 # HTTPS
-$ git clone https://github.com/MarkKhramko/nodejs-express-jwt
+$ git clone https://github.com/sufyaniisolutions/comparator-backend
 ```
 
 then use [npm](https://www.npmjs.com/) to

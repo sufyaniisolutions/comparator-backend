@@ -7,7 +7,7 @@ module.exports = {
 	password: process.env.DB_PASSWORD,
 	host: process.env.DB_HOST || 'localhost',
 	port: process.env.DB_PORT || '3306',
-	dialect: process.env.DB_DIALECT || 'mysql' || 'postgres',
+	dialect: process.env.DB_DIALECT || 'mysql', 
 
 	pool: {
 		max: 5,
